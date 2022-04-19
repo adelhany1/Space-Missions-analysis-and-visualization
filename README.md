@@ -6,7 +6,6 @@
 
 3.Early Soviet successes in the space race had a major impact on US society and culture, altering strategic defense doctrines and leading to new educational initiatives.
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## The dataset consists of following columns:
 
@@ -17,14 +16,3 @@
 - Status Rocket: Status of the Rocket
 - Rocket: Cost of the mission: in $ million
 - Status Mission: Status of the mission
-
-![DATA](images/spacex.jpg)
- 
- ## Data Visualization 
- 
- ![DATA](images/d1.png)
- 
- 
- 
- 
- ![DATA](images/d2.png)
